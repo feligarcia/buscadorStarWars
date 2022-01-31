@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/buscadorStarWars/static/css/main.59fe7400.chunk.css",
-    "main.js": "/buscadorStarWars/static/js/main.c13bdacd.chunk.js",
-    "main.js.map": "/buscadorStarWars/static/js/main.c13bdacd.chunk.js.map",
-    "runtime-main.js": "/buscadorStarWars/static/js/runtime-main.2e3854b9.js",
-    "runtime-main.js.map": "/buscadorStarWars/static/js/runtime-main.2e3854b9.js.map",
-    "static/js/2.5d2203f2.chunk.js": "/buscadorStarWars/static/js/2.5d2203f2.chunk.js",
-    "static/js/2.5d2203f2.chunk.js.map": "/buscadorStarWars/static/js/2.5d2203f2.chunk.js.map",
+    "main.css": "/buscadorStarWars/static/css/main.875863dd.css",
+    "main.js": "/buscadorStarWars/static/js/main.b1974ada.js",
     "index.html": "/buscadorStarWars/index.html",
-    "static/css/main.59fe7400.chunk.css.map": "/buscadorStarWars/static/css/main.59fe7400.chunk.css.map",
-    "static/js/2.5d2203f2.chunk.js.LICENSE.txt": "/buscadorStarWars/static/js/2.5d2203f2.chunk.js.LICENSE.txt"
+    "main.875863dd.css.map": "/buscadorStarWars/static/css/main.875863dd.css.map",
+    "main.b1974ada.js.map": "/buscadorStarWars/static/js/main.b1974ada.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e3854b9.js",
-    "static/js/2.5d2203f2.chunk.js",
-    "static/css/main.59fe7400.chunk.css",
-    "static/js/main.c13bdacd.chunk.js"
+    "static/css/main.875863dd.css",
+    "static/js/main.b1974ada.js"
   ]
 }

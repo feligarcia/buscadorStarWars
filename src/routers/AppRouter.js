@@ -16,7 +16,7 @@ export const AppRouter = () => {
                 <Routes> 
                     
                     
-                    <Route exact path="/" element={<SeacrhScreen/>} />
+                    <Route exact path="*" element={<SeacrhScreen/>} />
                     <Route exact path="/movies/:id" element={<SeacrhScreen/>} />
                 </Routes>
         </Router>

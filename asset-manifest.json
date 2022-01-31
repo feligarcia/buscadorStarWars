@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/buscadorStarWars/static/css/main.875863dd.css",
-    "main.js": "/buscadorStarWars/static/js/main.15e5b7de.js",
+    "main.js": "/buscadorStarWars/static/js/main.2aaf16c9.js",
     "index.html": "/buscadorStarWars/index.html",
     "main.875863dd.css.map": "/buscadorStarWars/static/css/main.875863dd.css.map",
-    "main.15e5b7de.js.map": "/buscadorStarWars/static/js/main.15e5b7de.js.map"
+    "main.2aaf16c9.js.map": "/buscadorStarWars/static/js/main.2aaf16c9.js.map"
   },
   "entrypoints": [
     "static/css/main.875863dd.css",
-    "static/js/main.15e5b7de.js"
+    "static/js/main.2aaf16c9.js"
   ]
 }

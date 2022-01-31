@@ -47,7 +47,7 @@ export const SeacrhScreen =  () => {
     
     return (
         <div>
-            <div class="starwarstitle">.</div>
+            <div className="starwarstitle">.</div>
             <hr></hr>
             <div className="col">
                 <div className="colsearch">

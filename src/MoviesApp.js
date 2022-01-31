@@ -3,7 +3,7 @@ import { AppRouter } from './routers/AppRouter'
 
 export const MoviesApp = () => {
     return (
-        <div class="AppPp">
+        <div>
             <AppRouter />
         </div>
     )
